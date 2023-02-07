@@ -3,6 +3,11 @@
     text-align: center;
 }
 
+.loris-body{
+    background-color: rgb(167, 182, 174);
+    text-align: center;
+}
+
 .description{
     color: black;
     font-size: 18px;
