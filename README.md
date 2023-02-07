@@ -4,4 +4,4 @@
 This assignment is a simple Zoo website which uses HTML, CSS and Bootstrap 5.
 
 
-[Click me to go to to the site!](https://amahi2001.github.io/Web-Dev-assignment-1/)
+[Click me to go to to the site!](https://amahi2001.github.io/WebDev-Assn-1/)
