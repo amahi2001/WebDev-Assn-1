@@ -13,6 +13,11 @@
     text-align: center;
 }
 
+.tapir-body{
+    background-color: rgb(160, 193, 228);
+    text-align: center;
+}
+
 .description{
     color: black;
     font-size: 18px;
