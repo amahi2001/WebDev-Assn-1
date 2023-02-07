@@ -8,6 +8,11 @@
     text-align: center;
 }
 
+.binturong-body{
+    background-color: rgb(45, 49, 49);
+    text-align: center;
+}
+
 .description{
     color: black;
     font-size: 18px;
